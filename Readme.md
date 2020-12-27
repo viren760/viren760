@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1NXMc_hTcz-rEW9uyc1T5qEXQzc3fwKVfinDty8ZGjPw/edit?usp=sharing](https://docs.google.com/document/d/1NXMc_hTcz-rEW9uyc1T5qEXQzc3fwKVfinDty8ZGjPw/edit?usp=sharing)
 
-- ⚡ Fun fact **If life give you lemons, ADD Vodka.**
+- ⚡ Fun fact **If life give you lemons, Add Vodka.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
