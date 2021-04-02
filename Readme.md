@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/virennnnn_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="virennnnn_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/virender-negi-0610ba19b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/virender-negi-0610ba19b" height="30" width="40" /></a>
-<a href="https://fb.com/virendernegi98@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="virendernegi98@gmail.com" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/virender.negi.180625/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/virender.negi.180625/" height="30" width="40" /></a>
 <a href="https://instagram.com/virenn.negi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="virenn.negi" height="30" width="40" /></a>
 </p>
 
