@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Virender Negi</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India 🧐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viren760&label=Profile%20views&color=0e75b6&style=flat" alt="viren760" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viren760" alt="viren760" /></a> </p>
 
-- 🌱 I’m currently learning **postgreSQL, react.js**
+- 🌱 I’m currently learning **postgreSQL, react.js 💡**
 
 - 💬 Ask me about **react, core java**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1NXMc_hTcz-rEW9uyc1T5qEXQzc3fwKVfinDty8ZGjPw/edit?usp=sharing](https://docs.google.com/document/d/1NXMc_hTcz-rEW9uyc1T5qEXQzc3fwKVfinDty8ZGjPw/edit?usp=sharing)
 
-- ⚡ Fun fact **If life give you lemons, ADD Vodka.**
+- ⚡ Fun fact **If life give you lemons, ADD Vodka. 🍻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
